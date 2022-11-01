@@ -10,10 +10,7 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "enemy-patrol.ts",
-        "tilemap.g.jres",
-        "tilemap.g.ts",
-        "icon.png"
+        "enemy-patrol.ts"
     ],
     "testFiles": [
         "test.ts"
