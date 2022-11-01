@@ -1,9 +1,9 @@
 {
     "name": "pxt-enemy-patrol",
     "description": "",
+    "version": "0.1.1",
     "dependencies": {
-        "device": "*",
-        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+        "game": "*"
     },
     "files": [
         "main.blocks",
